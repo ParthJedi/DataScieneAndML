@@ -1,4 +1,2 @@
 # DataScieneAndML
-This repository is our is for data science and machine learning POC projects.
-
-Testing.
+This is our repository for data science and machine learning POC projects.
